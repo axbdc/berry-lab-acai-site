@@ -42,7 +42,7 @@ export const Hero = () => {
               O Açaí
               <br />
               <span className="text-[#9FC9A6] italic font-normal" style={{ fontFamily: "'Cabinet Grotesk', serif" }}>
-                Autêntico.
+                Autêntico
               </span>
             </h1>
 
