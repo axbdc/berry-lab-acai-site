@@ -46,7 +46,7 @@ export const Locations = () => {
           </span>
           <h2 className="font-display-extra mt-7 text-3xl sm:text-5xl lg:text-6xl leading-[1.02]">
             Encontra-nos na{" "}
-            <em className="italic font-normal text-[#572A7C]">costa</em>.
+            <em className="italic font-normal text-[#572A7C]">costa</em>
           </h2>
           <p className="mt-5 text-[#2A143D]/70 text-base sm:text-lg max-w-xl">
             Três casas, um propósito — açaí autêntico onde o oceano te espera.
